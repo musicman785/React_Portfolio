@@ -1,13 +1,15 @@
 import React from 'react';
-import About from "./pages/About/About"
+import Navbar from "./components/Navbar/Navbar"
+import Portfolio from "./pages/Portfolio/Portfolio"
 
 import './App.css';
 
 function App() {
   return (
-
-    <About />
-
+    <div>
+      <Navbar />
+      <Portfolio />
+    </div>
   );
 }
 export default App;
