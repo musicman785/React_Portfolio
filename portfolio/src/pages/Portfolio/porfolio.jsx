@@ -3,6 +3,7 @@ import Hero from "../../components/Hero/hero";
 import Cards from "../../components/Cards/cards";
 import Gifs from "../../components/Cards/gifs.json";
 import Wrapper from "../../components/Wrapper/wrapper";
+import Footer from "../../components/Footer/Footer"
 
 
 const Portfolio = () => {
@@ -24,6 +25,7 @@ const Portfolio = () => {
                     />
                 ))}
             </Wrapper>
+            <Footer />
             {console.log(Wrapper)}
         </div>
     )

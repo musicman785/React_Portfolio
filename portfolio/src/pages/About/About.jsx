@@ -1,5 +1,6 @@
 import React from "react"
 import Hero from "../../components/Hero/hero";
+import Footer from "../../components/Footer/Footer"
 
 
 const About = () => {
@@ -18,7 +19,9 @@ const About = () => {
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>About me:</strong>Software developer with good skill and even better attitude. Like a big kid, but responsible. Love programming, dogs, and pizza. Enjoy sports and sci-fi thriller movies.</h3>
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>Hobbies:</strong>You mean other than coding right? I play slowpitch softball(harder than it sounds), microbrews, and road trips.</h3>
 
+            <Footer />
         </div>
+
 
     )
 
