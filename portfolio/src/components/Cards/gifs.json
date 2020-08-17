@@ -1,20 +1,43 @@
 [
     {
-        "gif": "cleansafegif.gif"
+        "id": "1",
+        "gif": "scheduler.gif",
+        "name": "Workday Scheduler",
+        "link": "https://github.com/musicman785/Work-day-schedule"
     },
     {
-        "gif": "burgerApp.gif"
+        "id": "2",
+        "gif": "burgerApp.gif",
+        "name": "Burger App",
+        "type": "Full Stack App",
+        "link": "https://github.com/musicman785/Burger"
     },
     {
-        "gif": "EmployeeDirectory.gif"
+        "id": "3",
+        "gif": "EmployeeDirectory.gif",
+        "name": "User Directory",
+        "type": "React App",
+        "link": "https://github.com/musicman785/Employee-Directory"
     },
     {
-        "gif": "passwordgif.gif"
+        "id": "4",
+        "gif": "passwordgif.gif",
+        "name": "Password Generator",
+        "type": "Front End Project",
+        "link": "https://github.com/musicman785/passwordGenerator"
     },
     {
-        "gif": "ub04gif.gif"
+        "id": "1",
+        "gif": "empTracker.gif",
+        "name": "Employee Tracker",
+        "type": "Back End Project",
+        "link": "https://github.com/musicman785/Employee_trackerMySql"
     },
     {
-        "gif": "weathergif.gif"
+        "id": "1",
+        "gif": "exerciseMegif.gif",
+        "name": "Workout Logger",
+        "type": "Front End Project",
+        "link": "https://github.com/musicman785/ExerciseMe"
     }
 ]

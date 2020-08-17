@@ -16,8 +16,11 @@ const Portfolio = () => {
             </Hero>
             <Wrapper>
                 {Gifs.map(giffy => (
-                    <Cards
+                    <Cards key={giffy.id}
                         image={require(`../../components/Cards/Gifs/${giffy.gif}`)}
+                        name={giffy.name}
+                        type={giffy.type}
+                        link={giffy.link}
                     />
                 ))}
             </Wrapper>
