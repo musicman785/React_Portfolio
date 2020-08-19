@@ -13,7 +13,6 @@ Client side application that records Budget transactions.
 # Technology Used
 
 > 1. Reactjs
-> 2. Axios
 > 3. Bootstrap
 > 4. HTML
 
@@ -27,7 +26,8 @@ kv
 ## Instructions
 > Navigate to [github pages link] on your browser. Once on the website click on the navbar to look around the site. Also, click on the projects to get linked to the respective github repository. If you wish to contact me, go to the contact page and simply click on the "Click Here" button and send me an email. 
 
-# Example Gif:
+
+## Example Gif:
 
 ![]()
 
