@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.ca993b8e.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.a9286897.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.a9286897.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
+    "static/js/2.de96b923.chunk.js": "/React_Portfolio/static/js/2.de96b923.chunk.js",
+    "static/js/2.de96b923.chunk.js.map": "/React_Portfolio/static/js/2.de96b923.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "precache-manifest.1e90600b49537f3f1d0473db3570c8ae.js": "/React_Portfolio/precache-manifest.1e90600b49537f3f1d0473db3570c8ae.js",
+    "service-worker.js": "/React_Portfolio/service-worker.js",
+    "static/css/main.ca993b8e.chunk.css.map": "/React_Portfolio/static/css/main.ca993b8e.chunk.css.map",
+    "static/js/2.de96b923.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.de96b923.chunk.js.LICENSE.txt",
+    "static/media/EmployeeDirectory.gif": "/React_Portfolio/static/media/EmployeeDirectory.001d3a20.gif",
+    "static/media/burgerApp.gif": "/React_Portfolio/static/media/burgerApp.9c37e8af.gif",
+    "static/media/empTracker.gif": "/React_Portfolio/static/media/empTracker.414193fb.gif",
+    "static/media/exerciseMegif.gif": "/React_Portfolio/static/media/exerciseMegif.2985c6da.gif",
+    "static/media/passwordgif.gif": "/React_Portfolio/static/media/passwordgif.88370f34.gif",
+    "static/media/scheduler.gif": "/React_Portfolio/static/media/scheduler.436ed48b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446e9683.js",
+    "static/js/2.de96b923.chunk.js",
+    "static/css/main.ca993b8e.chunk.css",
+    "static/js/main.a9286897.chunk.js"
+  ]
+}
