@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.ca993b8e.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.a9286897.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.a9286897.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
-    "static/js/2.de96b923.chunk.js": "/React_Portfolio/static/js/2.de96b923.chunk.js",
-    "static/js/2.de96b923.chunk.js.map": "/React_Portfolio/static/js/2.de96b923.chunk.js.map",
-    "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.1e90600b49537f3f1d0473db3570c8ae.js": "/React_Portfolio/precache-manifest.1e90600b49537f3f1d0473db3570c8ae.js",
-    "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.ca993b8e.chunk.css.map": "/React_Portfolio/static/css/main.ca993b8e.chunk.css.map",
-    "static/js/2.de96b923.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.de96b923.chunk.js.LICENSE.txt",
-    "static/media/EmployeeDirectory.gif": "/React_Portfolio/static/media/EmployeeDirectory.001d3a20.gif",
-    "static/media/burgerApp.gif": "/React_Portfolio/static/media/burgerApp.9c37e8af.gif",
-    "static/media/empTracker.gif": "/React_Portfolio/static/media/empTracker.414193fb.gif",
-    "static/media/exerciseMegif.gif": "/React_Portfolio/static/media/exerciseMegif.2985c6da.gif",
-    "static/media/passwordgif.gif": "/React_Portfolio/static/media/passwordgif.88370f34.gif",
-    "static/media/scheduler.gif": "/React_Portfolio/static/media/scheduler.436ed48b.gif"
+    "main.css": "/portfolio/static/css/main.ca993b8e.chunk.css",
+    "main.js": "/portfolio/static/js/main.0927d6cb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0927d6cb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.de96b923.chunk.js": "/portfolio/static/js/2.de96b923.chunk.js",
+    "static/js/2.de96b923.chunk.js.map": "/portfolio/static/js/2.de96b923.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7dc8689a9eb33185936125bf7a2169ed.js": "/portfolio/precache-manifest.7dc8689a9eb33185936125bf7a2169ed.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.ca993b8e.chunk.css.map": "/portfolio/static/css/main.ca993b8e.chunk.css.map",
+    "static/js/2.de96b923.chunk.js.LICENSE.txt": "/portfolio/static/js/2.de96b923.chunk.js.LICENSE.txt",
+    "static/media/EmployeeDirectory.gif": "/portfolio/static/media/EmployeeDirectory.001d3a20.gif",
+    "static/media/burgerApp.gif": "/portfolio/static/media/burgerApp.9c37e8af.gif",
+    "static/media/empTracker.gif": "/portfolio/static/media/empTracker.414193fb.gif",
+    "static/media/exerciseMegif.gif": "/portfolio/static/media/exerciseMegif.2985c6da.gif",
+    "static/media/passwordgif.gif": "/portfolio/static/media/passwordgif.88370f34.gif",
+    "static/media/scheduler.gif": "/portfolio/static/media/scheduler.436ed48b.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.446e9683.js",
+    "static/js/runtime-main.209c2d7e.js",
     "static/js/2.de96b923.chunk.js",
     "static/css/main.ca993b8e.chunk.css",
-    "static/js/main.a9286897.chunk.js"
+    "static/js/main.0927d6cb.chunk.js"
   ]
 }
