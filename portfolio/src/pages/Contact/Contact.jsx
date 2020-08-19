@@ -14,6 +14,7 @@ const Contact = () => {
             <div style={{ textAlign: "center" }}><a className="btn btn-block btn-lg btn-dark white" href="https://www.gmail.com/" target="_blank" rel="noopener noreferrer">Click Here!</a></div>
 
             <Footer />
+
         </div>
     )
 }

@@ -15,6 +15,7 @@ const About = () => {
 
             <h3 style={{ textAlign: "center", color: "lightblue" }}><strong>Name: </strong>Chris Salgado</h3>
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>Github Repos:</strong><a className="btn btn-link" href="https://github.com/musicman785" target="_blank" rel="noopener noreferrer">Link!</a></h3>
+            <h3 style={{ textAlign: "center", color: "grey" }}><strong>LinkedIn:</strong><a className="btn btn-link" href="https://www.linkedin.com/in/chris-salgado/" target="_blank" rel="noopener noreferrer">Link!</a></h3>
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>Resume:</strong><a className="btn btn-link" href="https://docs.google.com/document/d/1XHbxJBZpIGPB46t3nYBQKzq8VJjxMrfzJVLB-MYWGRQ/preview" target="_blank" rel="noopener noreferrer">Link!</a></h3>
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>About me: </strong>Software developer with good skill and even better attitude. Like a big kid, but responsible. Love programming, dogs, and pizza. Enjoy sports and sci-fi thriller movies.</h3>
             <h3 style={{ textAlign: "center", color: "grey" }}><strong>Hobbies: </strong>You mean other than coding right? I play slowpitch softball(harder than it sounds), microbrews, and road trips.</h3>
