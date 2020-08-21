@@ -6,7 +6,7 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/musicman785/React_Portfolio?color=%23b22&logo=github&logoColor=%23b22)
 
-[Link to App]()
+[Link to App](https://quizzical-payne-da51e3.netlify.app/)
 
 Client side application that records Budget transactions.
 
@@ -24,12 +24,12 @@ Client side application that records Budget transactions.
 - [Author](#author)
 kv
 ## Instructions
-> Navigate to [github pages link] on your browser. Once on the website click on the navbar to look around the site. Also, click on the projects to get linked to the respective github repository. If you wish to contact me, go to the contact page and simply click on the "Click Here" button and send me an email. 
+> Navigate to https://quizzical-payne-da51e3.netlify.app/ on your browser. Once on the website click on the navbar to look around the site. Also, click on the projects to get linked to the respective github repository. If you wish to contact me, go to the contact page and simply click on the "Click Here" button and send me an email. 
 
 
 ## Example Gif:
 
-![]()
+![](./public/assets/images/reactPortfolio.gif)
 
 ## Contributors
 
