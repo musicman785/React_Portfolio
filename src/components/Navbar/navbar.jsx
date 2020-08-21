@@ -1,5 +1,7 @@
 import React from "react";
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
 
 
 const Navbar = () => {
@@ -21,6 +23,12 @@ const Navbar = () => {
                             to="/contact"
                             className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact
                         </Link>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link active" target="_blank" rel="noopener noreferrer" href="https://github.com/musicman785"><FontAwesomeIcon icon={faGithub} /></a>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link active" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/chris-salgado/"><FontAwesomeIcon icon={faLinkedinIn} /></a>
                     </li>
                 </ul>
             </div>
